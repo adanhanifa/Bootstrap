@@ -1,0 +1,38 @@
+.row .one{
+    background-color: #dc3545;
+    height: 50vh;
+}
+.row .two{
+    background-color: darksalmon;
+    height: 50vh;
+}
+.row .three{
+    background-color: tomato;
+    height: 50vh;
+}
+.row .four{
+    background-color: #0dcaf0;
+    height: 25vh;
+}
+.row .five{
+    background-color: mediumaquamarine;
+    height: 25vh;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 70vh;
+}
+h4{
+    color: seagreen;
+}
+.row .passport img{
+    width: 80%;
+    height: 50vh;
+    border-radius: 10px;
+}
+h4{
+    color: seagreen;
+}
+.row .passport .card-body{
+    background-color: #adb5bd;
+}
